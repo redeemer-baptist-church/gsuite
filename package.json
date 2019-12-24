@@ -4,6 +4,7 @@
   "description": "A customized wrapper around the googleapis npm package",
   "main": "index.js",
   "dependencies": {
+    "@redeemerbc/secret": "git+https://github.com/redeemer-baptist-church/npm-secret.git",
     "@redeemerbc/sleep": "git+https://github.com/redeemer-baptist-church/npm-sleep.git",
     "googleapis": "^46.0.0",
     "ow": "^0.12.0"
